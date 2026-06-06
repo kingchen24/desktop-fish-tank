@@ -2,6 +2,16 @@
 
 一款轻量化桌面挂机养鱼小游戏，灵感来自《TBH》《Banana》《Rusty's Retirement》等桌面放置类游戏。
 
+## 📸 预览
+
+### 游戏画面
+
+![游戏截图](screenshots/game-preview.png)
+
+### 运行效果
+
+![运行动画](screenshots/game-animation.gif)
+
 ## ✨ 特性
 
 - 🐠 **8种鱼类**：从小丑鱼到小鲸鱼，越贵的鱼产币越快
