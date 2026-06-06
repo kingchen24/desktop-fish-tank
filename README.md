@@ -8,9 +8,7 @@
 
 ![游戏截图](screenshots/game-preview.png)
 
-### 运行效果
 
-![运行动画](screenshots/game-animation.gif)
 
 ## ✨ 特性
 
